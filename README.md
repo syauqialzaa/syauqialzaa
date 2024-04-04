@@ -34,6 +34,8 @@ Keep in touch with me via email syauqialza7@gmail.com
 ☑️ [Introduction to ElephantSQL and How to Use it](https://symbolic.id/x-brain/c/dab67dfb-4893-5967-afa2-557197dd57db)\
 ☑️ [Introduction to Gem Ice Cube for scheduler tasks in Ruby on Rails](https://symbolic.id/x-brain/c/6e8294e0-471a-5bb6-befc-e6d7378d114c)
 
+</br>
+
 ### 👨‍💻 Tech Stack
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
