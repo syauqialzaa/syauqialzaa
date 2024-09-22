@@ -1,9 +1,9 @@
 ### Hi there, I'm Alza!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&center=true&vCenter=true&width=1200&height=100&lines=Backend+developer%2C;Open+for+job+opportunities.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&center=true&vCenter=true&width=1200&height=100&lines=Backend+engineer%2C;Open+for+job+opportunities.)](https://git.io/typing-svg)
 
 ### 👤 About
-As a seasoned Backend Developer, I bring over a year of dedicated experience as a Full-Time Ruby on Rails Developer. My expertise extends across various backend platforms including Ruby, Go, and NodeJS. I have solid understanding of backend architecture such as MVC, DDD, TDD and also database management such as PostgreSQL, MySQL and query optimization. I also implement clean code, add testing, use architectural patterns, and implement code based on business flow. As a Backend Developer, I have been instrumental in contributing to the success of projects through my commitment to developing robust and scalable backend solutions.
+Currently pursuing Master's degree in Information Technology at UGM, specializing in Software Engineering and Software Architecture. Formerly worked as Full-Time Backend Engineer for one year. Proficient in Ruby, JavaScript, and Golang for Backend Development. Well-versed in Clean Architecture Concepts, CI/CD, MVC, Domain-Driven Design (DDD), and Test-Driven Development (TDD).
 
 </br>
 
